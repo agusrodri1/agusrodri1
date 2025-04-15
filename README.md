@@ -7,6 +7,7 @@
 🌍 Completed a study exchange program in Oxford, England  
 📚 Always learning and improving – now focusing on networking and pentesting  
 🔍 Open to opportunities in the IT and cybersecurity field
+
 https://agusrodri1.github.io/portafolio/
 
 ## 🧰 Technologies & Tools
